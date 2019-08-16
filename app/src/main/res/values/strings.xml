@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoListFragment</string>
+    <string name="splash_tv">TO DO LIST</string>
+    <string name="splash_btn">LETS DO IT !!!</string>
+    <string name="save_btn">SAVE</string>
+    <string name="choose_from_gallery_btn">GALLERY</string>
+    <string name="pick_btn">IMAGE</string>
+    <string name="dialog_title">SELECT IMAGE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pager">PagerActivity</string>
+</resources>

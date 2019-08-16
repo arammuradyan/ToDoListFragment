@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="PriorityView">
+    <attr name="priority" format="flags">
+        <flag name="high" value="3"/>
+        <flag name="medium" value="2"/>
+        <flag name="low" value="1"/>
+</attr>
+</declare-styleable>
+</resources>
